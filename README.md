@@ -1,2 +1,2 @@
 # accelr8-cli
-TODO
+npx accelr8
